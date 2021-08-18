@@ -1,4 +1,0 @@
-/Users/ahmed/desktop/MachineLearning/HeadCount/group1/CMakeFiles/rebuild_cache.dir
-/Users/ahmed/desktop/MachineLearning/HeadCount/group1/CMakeFiles/edit_cache.dir
-/Users/ahmed/desktop/MachineLearning/HeadCount/group1/CMakeFiles/headcount.dir
-/Users/ahmed/desktop/MachineLearning/HeadCount/group1/CMakeFiles/headcount_autogen.dir
