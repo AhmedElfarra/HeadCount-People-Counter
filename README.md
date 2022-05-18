@@ -53,4 +53,3 @@ To test the program, run it from the command line using the following command:
 ```sh
 ./headcount
 ```
-# HeadCount
