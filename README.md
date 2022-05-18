@@ -36,23 +36,6 @@ their stores.
   - Additional instructions are provided in the `opencv_installation.txt` file.
 - SimpleMail2Qt5
 
-## Installation 
-
-
-
----
-## Structure
-
-. Headcount
-├── CMakeLists.txt
-├── include
-│  └── Fractal.h
-│  └── ComplexNumber.h
-└── src
-    ├── Fractal.cpp
-    ├── ComplexNumber.cpp
-    └── main.cpp
-
 ---
 ## Compilation
 
