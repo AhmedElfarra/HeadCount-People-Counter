@@ -1,4 +1,4 @@
-# Headcount
+# Headcounter - Object Detection Software
 
 A program for tracking people entering and exiting a building that additionally provides useful functionality such as setting a maximum store capacity (i.e. for enforcing COVID-19 safety measures) and sending notifications to involved parties.
 
